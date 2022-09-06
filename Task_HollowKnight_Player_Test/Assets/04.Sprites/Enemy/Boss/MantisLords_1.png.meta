@@ -1,0 +1,1527 @@
+fileFormatVersion: 2
+guid: cab5e4ce231aced45b33db4a1551a55f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MantisLords_1_0
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 5288
+        width: 107
+        height: 329
+      alignment: 9
+      pivot: {x: 0.5590578, y: 0.047934674}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36fa7f2fb4ddc6250800000000000000
+      internalID: 5939365326863445859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MantisLords_1_1
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 5285
+        width: 105
+        height: 363
+      alignment: 9
+      pivot: {x: 0.57221913, y: 0.05273841}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b429fb92cca7376e0800000000000000
+      internalID: -1840992805372063157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MantisLords_1_2
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 5291
+        width: 113
+        height: 387
+      alignment: 9
+      pivot: {x: 0.59855396, y: 0.048207365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21ba3273b26b61750800000000000000
+      internalID: 6275403427512298258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MantisLords_1_4
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 4772
+        width: 97
+        height: 478
+      alignment: 9
+      pivot: {x: 0.6004538, y: 0.061723653}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76feba454da6f5cb0800000000000000
+      internalID: -4873058811605422233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MantisLords_1_5
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 4769
+        width: 99
+        height: 472
+      alignment: 9
+      pivot: {x: 0.5820214, y: 0.06991526}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ffba5bf6733182e0800000000000000
+      internalID: -2125360963025977359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MantisLords_1_3
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 4769
+        width: 109
+        height: 422
+      alignment: 9
+      pivot: {x: 0.5893949, y: 0.06513811}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd20c376cd34159f0800000000000000
+      internalID: -481529071248080165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MantisLords_1_6
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 4245
+        width: 122
+        height: 481
+      alignment: 9
+      pivot: {x: 0.48537207, y: 0.08816471}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb137531e795ebb20800000000000000
+      internalID: 3152055187231158716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MantisLords_1_7
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 4248
+        width: 194
+        height: 489
+      alignment: 9
+      pivot: {x: 0.5551934, y: 0.1459961}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 225dc062665bc43d0800000000000000
+      internalID: -3221000183147080414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MantisLords_1_8
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 4248
+        width: 156
+        height: 414
+      alignment: 9
+      pivot: {x: 0.5228796, y: 0.16807844}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d296d9bb64ac68a50800000000000000
+      internalID: 6523123515436919085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MantisLords_1_9
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 4270
+        width: 131
+        height: 409
+      alignment: 9
+      pivot: {x: 0.43188477, y: 0.20765443}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07f4ca895768e3bc0800000000000000
+      internalID: -3801453195823394960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MantisLords_1_12
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 3732
+        width: 115
+        height: 494
+      alignment: 9
+      pivot: {x: 0.43211088, y: 0.11016228}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56308aa3a73a98a80800000000000000
+      internalID: -8464054279300709531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MantisLords_1_11
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 3714
+        width: 93
+        height: 478
+      alignment: 9
+      pivot: {x: 0.38806808, y: 0.08622454}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71f9e00a5f04498c0800000000000000
+      internalID: -3993495545874309353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MantisLords_1_13
+      rect:
+        serializedVersion: 2
+        x: 1761
+        y: 3736
+        width: 127
+        height: 442
+      alignment: 9
+      pivot: {x: 0.4385256, y: 0.12906533}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17dd79582e84ced00800000000000000
+      internalID: 1003256954737909105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MantisLords_1_10
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 3746
+        width: 62
+        height: 384
+      alignment: 9
+      pivot: {x: 0.2481527, y: 0.14081128}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2204711ee9262c200800000000000000
+      internalID: 198829768078475298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MantisLords_1_14
+      rect:
+        serializedVersion: 2
+        x: 2299
+        y: 3734
+        width: 104
+        height: 354
+      alignment: 9
+      pivot: {x: 0.34986055, y: 0.13977672}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b65176e80bd41d870800000000000000
+      internalID: 8705824975382582635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MantisLords_1_15
+      rect:
+        serializedVersion: 2
+        x: 2812
+        y: 3734
+        width: 110
+        height: 292
+      alignment: 9
+      pivot: {x: 0.21609996, y: 0.2682771}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3ade276372cd57c0800000000000000
+      internalID: -4080891886419649986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MantisLords_1_23
+      rect:
+        serializedVersion: 2
+        x: 3234
+        y: 3220
+        width: 256
+        height: 516
+      alignment: 9
+      pivot: {x: 0.89646435, y: 0.5504344}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f02235058757ec210800000000000000
+      internalID: 1355149697489248783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MantisLords_1_16
+      rect:
+        serializedVersion: 2
+        x: 3351
+        y: 3740
+        width: 111
+        height: 286
+      alignment: 9
+      pivot: {x: 0.26554802, y: 0.19971983}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6db29ddec90d80d0800000000000000
+      internalID: -3419065758019043987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MantisLords_1_24
+      rect:
+        serializedVersion: 2
+        x: 3835
+        y: 3200
+        width: 196
+        height: 562
+      alignment: 9
+      pivot: {x: 0.84521985, y: 0.56945974}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd9f02c84194a9650800000000000000
+      internalID: 6240380586274388444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MantisLords_1_25
+      rect:
+        serializedVersion: 2
+        x: 4379
+        y: 3195
+        width: 199
+        height: 559
+      alignment: 9
+      pivot: {x: 0.840018, y: 0.569833}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac677acf1485acf70800000000000000
+      internalID: 9208269428547352266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MantisLords_1_21
+      rect:
+        serializedVersion: 2
+        x: 2221
+        y: 3220
+        width: 187
+        height: 513
+      alignment: 9
+      pivot: {x: 0.8757533, y: 0.53043765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea6e469af820925e0800000000000000
+      internalID: -1934011748933376338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MantisLords_1_22
+      rect:
+        serializedVersion: 2
+        x: 2731
+        y: 3223
+        width: 237
+        height: 500
+      alignment: 9
+      pivot: {x: 0.88432574, y: 0.5208193}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4826680ea8aa3d60800000000000000
+      internalID: 7870788764202051662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MantisLords_1_19
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 3232
+        width: 349
+        height: 429
+      alignment: 9
+      pivot: {x: 0.65659314, y: 0.23308429}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ba6b69343b1bf40800000000000000
+      internalID: 5742568102746827591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MantisLords_1_17
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 3304
+        width: 351
+        height: 315
+      alignment: 9
+      pivot: {x: 0.77433014, y: 0.25214922}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dc2b416aa315f3f0800000000000000
+      internalID: -867765730701267758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MantisLords_1_18
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 3257
+        width: 273
+        height: 368
+      alignment: 9
+      pivot: {x: 0.71925235, y: 0.22419938}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f52f8a281fb320850800000000000000
+      internalID: 6341697133756346975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MantisLords_1_20
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 3218
+        width: 381
+        height: 393
+      alignment: 9
+      pivot: {x: 0.71174586, y: 0.22187786}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f01da643435126bf0800000000000000
+      internalID: -332680108510097137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MantisLords_1_26
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2667
+        width: 434
+        height: 434
+      alignment: 9
+      pivot: {x: 0.92398894, y: 0.3968669}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba8c0ded0da8b2810800000000000000
+      internalID: 1741638310604884139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MantisLords_1_27
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 2648
+        width: 212
+        height: 581
+      alignment: 9
+      pivot: {x: 0.7787104, y: 0.3070142}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b713a463c11dd8df0800000000000000
+      internalID: -176254891297459845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MantisLords_1_28
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 2636
+        width: 152
+        height: 590
+      alignment: 9
+      pivot: {x: 0.8688451, y: 0.29537582}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 939bb4fd6db566b50800000000000000
+      internalID: 6586052483503339833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MantisLords_1_29
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 2674
+        width: 571
+        height: 387
+      alignment: 9
+      pivot: {x: 0.97317487, y: 0.41722056}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a81a8e134eadb8bc0800000000000000
+      internalID: -3779686788622671478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MantisLords_1_30
+      rect:
+        serializedVersion: 2
+        x: 2137
+        y: 2647
+        width: 300
+        height: 423
+      alignment: 9
+      pivot: {x: 0.84812826, y: 0.3706701}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96f57958f0b66dd10800000000000000
+      internalID: 2150023586525962089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MantisLords_1_31
+      rect:
+        serializedVersion: 2
+        x: 2650
+        y: 2576
+        width: 258
+        height: 512
+      alignment: 9
+      pivot: {x: 0.9048003, y: 0.49514246}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52c376a5602ac0b80800000000000000
+      internalID: -8427182654546822107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MantisLords_1_32
+      rect:
+        serializedVersion: 2
+        x: 3094
+        y: 2591
+        width: 259
+        height: 516
+      alignment: 9
+      pivot: {x: 0.8798159, y: 0.54236454}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f51a946620d452d0800000000000000
+      internalID: -3290776564385835536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MantisLords_1_33
+      rect:
+        serializedVersion: 2
+        x: 3699
+        y: 2576
+        width: 199
+        height: 559
+      alignment: 9
+      pivot: {x: 0.85701704, y: 0.55865926}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12edf45d8f7029480800000000000000
+      internalID: -8894037548791243231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MantisLords_1_1001
+      rect:
+        serializedVersion: 2
+        x: 4939
+        y: 3025
+        width: 279
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 544f39435ae05e2b0800000000000000
+      internalID: -5556018462577134523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MantisLords_1_1002
+      rect:
+        serializedVersion: 2
+        x: 4943
+        y: 2700
+        width: 268
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b94d00737484b80800000000000000
+      internalID: -8410394002551694491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MantisLords_1_35
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 2114
+        width: 188
+        height: 513
+      alignment: 9
+      pivot: {x: 0.857267, y: 0.5210846}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a6877a97496ccdc0800000000000000
+      internalID: -3617400644430231900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MantisLords_1_34
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 2117
+        width: 235
+        height: 499
+      alignment: 9
+      pivot: {x: 0.87967074, y: 0.52875084}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d65c0d4b08c406380800000000000000
+      internalID: -8980093541303663251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MantisLords_1_36
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 2171
+        width: 393
+        height: 380
+      alignment: 9
+      pivot: {x: 0.31373903, y: 0.6612761}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4161d9b007c702950800000000000000
+      internalID: 6422269889303352852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MantisLords_1_37
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 2219
+        width: 295
+        height: 281
+      alignment: 9
+      pivot: {x: 0.3916384, y: 0.660337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f350f125bead4080800000000000000
+      internalID: -9201506370666343434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MantisLords_1_38
+      rect:
+        serializedVersion: 2
+        x: 1877
+        y: 2227
+        width: 400
+        height: 263
+      alignment: 9
+      pivot: {x: 0.36497223, y: 0.6191267}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e82910fe243250a70800000000000000
+      internalID: 8792472617895432846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MantisLords_1_1003
+      rect:
+        serializedVersion: 2
+        x: 4976
+        y: 2438
+        width: 268
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37a24371734f37300800000000000000
+      internalID: 248810921885182579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MantisLords_1_40
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 1517
+        width: 296
+        height: 534
+      alignment: 9
+      pivot: {x: 0.60334426, y: 0.38543084}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c334b3eb976c385a0800000000000000
+      internalID: -6520149609317448900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MantisLords_1_39
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1584
+        width: 171
+        height: 404
+      alignment: 9
+      pivot: {x: 0.4724785, y: 0.44757986}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc32c384677a5cc20800000000000000
+      internalID: 3226168834540708813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MantisLords_1_41
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 1567
+        width: 288
+        height: 432
+      alignment: 9
+      pivot: {x: 0.5571925, y: 0.30935726}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b910a1cbab5c0f2c0800000000000000
+      internalID: -4399799430130564709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MantisLords_1_43
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 1612
+        width: 485
+        height: 264
+      alignment: 9
+      pivot: {x: 0.25304848, y: 0.05132363}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90afe2d4f32649040800000000000000
+      internalID: 4653452338997950985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MantisLords_1_44
+      rect:
+        serializedVersion: 2
+        x: 2686
+        y: 1604
+        width: 483
+        height: 270
+      alignment: 9
+      pivot: {x: 0.27430135, y: 0.07415455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9102f66b468a00a0800000000000000
+      internalID: -6914566619466169953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MantisLords_1_45
+      rect:
+        serializedVersion: 2
+        x: 3283
+        y: 1594
+        width: 484
+        height: 296
+      alignment: 9
+      pivot: {x: 0.3735276, y: 0.09982506}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a8c1a8d6f2d08150800000000000000
+      internalID: 5872925871729395877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MantisLords_1_46
+      rect:
+        serializedVersion: 2
+        x: 3895
+        y: 1574
+        width: 479
+        height: 293
+      alignment: 9
+      pivot: {x: 0.3735693, y: 0.10243241}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99ae38862ba55ca60800000000000000
+      internalID: 7693655260736514713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MantisLords_1_42
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 1601
+        width: 478
+        height: 221
+      alignment: 9
+      pivot: {x: 0.25856996, y: 0.06617371}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f158a49324c0640800000000000000
+      internalID: 5047482096206290733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MantisLords_1_47
+      rect:
+        serializedVersion: 2
+        x: 4498
+        y: 1550
+        width: 486
+        height: 286
+      alignment: 9
+      pivot: {x: 0.40732202, y: 0.0875274}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4fc7c74c335eb1f0800000000000000
+      internalID: -1027292146626474166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MantisLords_1_48
+      rect:
+        serializedVersion: 2
+        x: 5113
+        y: 1550
+        width: 467
+        height: 295
+      alignment: 9
+      pivot: {x: 0.42339107, y: 0.08764938}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: febeb54e49b3ed860800000000000000
+      internalID: 7556542735446698991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MantisLords_1_49
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 1280
+        width: 581
+        height: 190
+      alignment: 9
+      pivot: {x: 0.08493309, y: 0.10699463}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22b7ffa0ea78e7950800000000000000
+      internalID: 6448740898019703586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MantisLords_1_50
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 1278
+        width: 579
+        height: 188
+      alignment: 9
+      pivot: {x: 0.081137754, y: 0.10780172}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9016c4320039cb650800000000000000
+      internalID: 6250032011684897033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MantisLords_1_51
+      rect:
+        serializedVersion: 2
+        x: 1474
+        y: 1277
+        width: 573
+        height: 173
+      alignment: 9
+      pivot: {x: 0.0785547, y: 0.09502715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e7d84d2db529b490800000000000000
+      internalID: -7730105790965950493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MantisLords_1_52
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 889
+        width: 513
+        height: 252
+      alignment: 9
+      pivot: {x: 0.0564147, y: 0.084250554}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb76d5b2c19ee5240800000000000000
+      internalID: 4782516161509943231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MantisLords_1_53
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 884
+        width: 502
+        height: 244
+      alignment: 9
+      pivot: {x: 0.07445462, y: 0.09217309}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d3cb1a083348480800000000000000
+      internalID: -8897930336214958762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MantisLords_1_54
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 866
+        width: 505
+        height: 258
+      alignment: 9
+      pivot: {x: 0.0772357, y: 0.10626126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34d96d8e545b95d10800000000000000
+      internalID: 2114920811890908483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MantisLords_1_55
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 861
+        width: 505
+        height: 261
+      alignment: 9
+      pivot: {x: 0.0799227, y: 0.100388564}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c193b04207a0a230800000000000000
+      internalID: 3648099326287385032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MantisLords_1_56
+      rect:
+        serializedVersion: 2
+        x: 2645
+        y: 869
+        width: 484
+        height: 253
+      alignment: 9
+      pivot: {x: 0.061536048, y: 0.07418932}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c58adbbd6a65dd90800000000000000
+      internalID: -7073630620179855932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MantisLords_1_57
+      rect:
+        serializedVersion: 2
+        x: 3212
+        y: 852
+        width: 470
+        height: 247
+      alignment: 9
+      pivot: {x: 0.06599329, y: 0.06934112}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e314f2659e7c243d0800000000000000
+      internalID: -3223794578256608962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MantisLords_1_58
+      rect:
+        serializedVersion: 2
+        x: 3819
+        y: 824
+        width: 462
+        height: 241
+      alignment: 9
+      pivot: {x: 0.081771255, y: 0.08279102}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05b62aaebf05341f0800000000000000
+      internalID: -1061916044225778864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MantisLords_1_59
+      rect:
+        serializedVersion: 2
+        x: 4355
+        y: 814
+        width: 462
+        height: 244
+      alignment: 9
+      pivot: {x: 0.078044675, y: 0.08086333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0064e7c5e438034e0800000000000000
+      internalID: -2003957461597403648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MantisLords_1_60
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 447
+        width: 482
+        height: 232
+      alignment: 9
+      pivot: {x: 0.07449493, y: 0.0899645}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eb80d9127fdcc5a0800000000000000
+      internalID: -6499574481050104859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MantisLords_1_61
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 438
+        width: 474
+        height: 219
+      alignment: 9
+      pivot: {x: 0.087019004, y: 0.09992389}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2f2c08759e94f5f0800000000000000
+      internalID: -723779275298427089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MantisLords_1_62
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 326
+        width: 374
+        height: 421
+      alignment: 9
+      pivot: {x: 0.48583886, y: 0.09532677}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5af11ac157244abc0800000000000000
+      internalID: -3772817517070704731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MantisLords_1_63
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 346
+        width: 382
+        height: 411
+      alignment: 9
+      pivot: {x: 0.48883888, y: 0.107223175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b727442f0b5908c0800000000000000
+      internalID: -4032591870742288457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
